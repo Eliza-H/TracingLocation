@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android System Service</string>
+    <string name="host">http://localhost:8080</string>
+    <string name="key">a14ee97ef4357420ffa78e385cd3726efb857679985e6545dfacedf64b312856a4864b</string>
+</resources>
